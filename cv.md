@@ -19,3 +19,26 @@ My stengths:
 *   purposefulness
 *   team player
 
+## **Skills**
+
+*   HTML
+*   CSS(SCSS)
+*   Figma
+*   Git/Github
+*   Avocode
+*   Postman
+*   DevTools
+
+## **Code example**
+
+```
+function doubleChar(str) {
+    let sign = "";
+    
+    for (let i=0;i<str.length;i++) {
+      sign += str [i] + str [i];
+    }
+    return sign;
+  }
+
+```
