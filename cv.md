@@ -42,3 +42,12 @@ function doubleChar(str) {
   }
 
 ```
+
+## **Education**
+
+Master's Degree of "Industrial Electronics"
+"HTML+CSS" course by stepik.org
+
+## **English**
+
+A2+ (Has experience of communicating with foreign colleagues).
