@@ -1,3 +1,63 @@
-body {
-    background-color: aqua;
+* {
+    box-sizing: border-box;
+    position: relative;
+    justify-content: center;
+    color: rgba(1, 6, 64, 0.785);
+    text-decoration: none;
+}
+.header {
+    text-align: center;
+    border: 1px rgb(211, 202, 202) solid;
+}
+.nav-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
+.main {
+    text-align: center;
+}
+.main-item {
+    display: flex;
+    justify-content: space-around;
+}
+.main-item-description {
+    display: flex;
+    flex-direction: column;
+}
+.avatar {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+}
+.contacts-item {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.skills-item {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.footer {
+    background-color: white;
+    border: 1px rgb(211, 202, 202) solid;
+    text-align: center;
+}
+.footer-item {
+    display: flex;
+    justify-content: space-around;
+    vertical-align: middle;
+}
+.rss-logo {
+    width: 100px;
+    height: 40px;
+}
+.footer-item-github {
+    padding-top: 20px;
+}
+.footer-item-year {
+    padding-top: 20px;
 }
